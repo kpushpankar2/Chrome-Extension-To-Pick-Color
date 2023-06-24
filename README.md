@@ -11,3 +11,9 @@ Open the Chrome browser on your computer.<br>
 Go to the Chrome Manage Extension.<br>
 At the top right open developer mode after that Load Unpacked button shown.<br>
 Add files provided above in Unpaced Your Extension Start Working.<br>
+#Demo of Extension
+![first](colorpickerexample/first.png)<br>
+![second](colorpickerexample/Second.png)<br>
+![third](colorpickerexample/third.png)<br>
+
+
