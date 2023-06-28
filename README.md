@@ -12,8 +12,7 @@ Go to the Chrome Manage Extension.<br>
 At the top right open developer mode after that Load Unpacked button shown.<br>
 Add files provided above in Unpaced Your Extension Start Working.<br>
 #Demo of Extension
-![first](colorpickerexample/first.png)<br>
-![second](colorpickerexample/Second.png)<br>
-![third](colorpickerexample/third.png)<br>
-
+![first](https://github.com/kpushpankar2/Chrome-Extension-To-Pick-Color/assets/99396103/9bfe9fcc-72e5-42fb-9ab4-1ae5f82741a0)
+![Second](https://github.com/kpushpankar2/Chrome-Extension-To-Pick-Color/assets/99396103/f19613d4-7eb3-475d-8316-b8b4f7b801dd)
+![third](https://github.com/kpushpankar2/Chrome-Extension-To-Pick-Color/assets/99396103/b6cc2ee3-5dad-4965-8f99-ab94d92b49d7)
 
